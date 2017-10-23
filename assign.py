@@ -1,0 +1,9 @@
+varone=1
+vartwo=2
+varthree=3
+varfour=6
+varone+=3
+vartwo-=1
+varthree*=4
+varfour/=6
+print(varone,vartwo,varthree,varfour)
